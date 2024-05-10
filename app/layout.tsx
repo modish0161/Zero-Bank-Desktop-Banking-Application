@@ -12,7 +12,7 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metadata: Metadata = {
-  title: "ZeroBank",
+  title: "Zero-Bank",
   description: "Zero-Bank is a modern banking platform for everyone.",
   icons: {
     icon: '/icons/logo.svg'
